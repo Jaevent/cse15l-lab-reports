@@ -1,2 +1,3 @@
 # Hello, world!
 **this** formatting changes *as i type*
+[Lab Report 1](https://jaevent.github.io/cse15l-lab-reports/)
