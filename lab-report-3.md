@@ -25,4 +25,5 @@ The first bug I found was on the reversed function:
   4. Explain the connection between the symptom and the bug. Why does the bug cause that particular symptom for that particular input?
      
      It was not creating a new array or returning a new array it just returned the original array arr.
+  The second bug I found was on the 
 
