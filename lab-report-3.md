@@ -73,6 +73,7 @@ class SearchEngine {
 ```
 ![image12](https://user-images.githubusercontent.com/114322700/195967760-371840aa-00de-416d-94d9-7b921909e262.png)
 ![image11](https://user-images.githubusercontent.com/114322700/195967937-1b077cce-3cb8-41ec-b74d-89ce08b2d45f.png)
+
 For the /add and /search I used the handleRequest function and the argument of the method I am using my page URL. The URL changes only if I edit it, it does not change when the function is called. If the values in the array change, by the time the request is done processing it changed by adding another value in the array if I used /add or displaying the required element when I used /search.
 
 Part 2:
