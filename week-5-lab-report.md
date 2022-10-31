@@ -55,16 +55,16 @@ output:
 ![image](https://user-images.githubusercontent.com/114322700/198937624-8dd26036-2b67-4cb7-94ec-74d6f4595edb.png)
 
 Now here are 3 alternate ways to use the `find` command:
-## `-empty`:
-The `-empty` command shows all files in the current directory that are empty. This is useful in finding out what files are empty, which can then be deleted so that it does not take up any space. Below are images of the command being used and its output.
+## `-newer`:
+The `-newer` command shows files that have been modified or created after a specific file. This is useful in keeping track of file modifications. Below are images of the command being used and its output.
 
 command:
 
-![image](https://user-images.githubusercontent.com/114322700/198938147-95da44d0-5ad7-4cf8-8da1-7775f917de3e.png)
+![image](https://user-images.githubusercontent.com/114322700/198945742-338dc5b8-a096-44ac-81ef-a0dda23156e1.png)
 
 output:
 
-![image](https://user-images.githubusercontent.com/114322700/198938411-30c19d54-cc5e-444c-a7d3-f9273e0809ec.png)
+![image](https://user-images.githubusercontent.com/114322700/198945885-7bf1156b-8d3c-4f39-bfef-347954476020.png)
 
 ## `-size`:
 The `-size` command looks for files that are a certain size. Below are images of the command being used and its output.
