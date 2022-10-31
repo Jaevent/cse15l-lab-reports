@@ -71,11 +71,11 @@ The `-size` command looks for files that are a certain size. Below are images of
 
 command:
 
-![image](https://user-images.githubusercontent.com/114322700/198938629-52ce94f1-825d-4496-8c5a-87764078f593.png)
+![image](https://user-images.githubusercontent.com/114322700/198945067-f605cc23-33fe-4c6a-9d1b-8979dc8844d9.png)
 
 output:
 
-![image](https://user-images.githubusercontent.com/114322700/198938693-adfabe1b-b78d-44ee-94e9-cf2159cd2d29.png)
+![image](https://user-images.githubusercontent.com/114322700/198945175-c2dc31ca-8f5b-454a-87f7-6f17e6935d31.png)
 
 ## `-maxdepth`:
 The `-maxdepth` command allows us to control how many subdirectories are displayed when executing `-find`. This is useful when the user does not want the terminal to be flooded with directories that are not needed to be displayed.  Below are images of the command being used and its output.
