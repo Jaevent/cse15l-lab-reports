@@ -11,7 +11,7 @@ output:
 
 Now here are 3 alternate ways to use the `less` command:
 ## `-N`:
-The `-N` command displays the line number next to each line in the text file. The following images below displays the output when the `less -N chapter-1.txt` command is used in the `technical/911report/` directory and what is typed as the command. 
+The `-N` command displays the line number next to each line in the text file. This is useful if the user wants to keep track how many lines the file is taking up. The following images below displays the output when the `less -N chapter-1.txt` command is used in the `technical/911report/` directory and what is typed as the command. 
 
 command:
 
@@ -22,7 +22,7 @@ output:
 ![image](https://user-images.githubusercontent.com/114322700/198934685-5bbb848d-98ba-4fd6-9401-46b295d05631.png)
 
 ## `-m`:
-The `-m` command displays how long the text file is in percentage. The following images below displays the output when the `less -m chapter-1.txt` command is used in the `technical/911report/` directory and what is typed as the command. 
+The `-m` command displays how long the text file is in percentage. This is useful for file management when the user does not want a text file to be over a certain percentage. The following images below displays the output when the `less -m chapter-1.txt` command is used in the `technical/911report/` directory and what is typed as the command. 
 
 command:
 
@@ -33,7 +33,7 @@ output:
 ![image](https://user-images.githubusercontent.com/114322700/198935302-9d58c49c-0cd4-4a46-b4be-4688a62ddc77.png)
 
 ## `-X`:
-The `-X` command displays the contents of the file even after exiting the `less` command. The following images below displays the output when the `less -X chapter-1.txt` command is used in the `technical/911report/` directory and what is typed as the command. 
+The `-X` command displays the contents of the file even after exiting the `less` command. This command is useful for users which want to keep track contents of a certain file when executing other commands. The following images below displays the output when the `less -X chapter-1.txt` command is used in the `technical/911report/` directory and what is typed as the command. 
 
 command:
 
@@ -56,7 +56,7 @@ output:
 
 Now here are 3 alternate ways to use the `find` command:
 ## `-empty`:
-The `-empty` command shows all files in the current directory that are empty. Below are images of the command being used and its output.
+The `-empty` command shows all files in the current directory that are empty. This is useful in finding out what files are empty, which can then be deleted so that it does not take up any space. Below are images of the command being used and its output.
 
 command:
 
@@ -78,7 +78,7 @@ output:
 ![image](https://user-images.githubusercontent.com/114322700/198938693-adfabe1b-b78d-44ee-94e9-cf2159cd2d29.png)
 
 ## `-maxdepth`:
-The `-maxdepth` command allows us to control how many subdirectories are displayed when executing `-find`.  Below are images of the command being used and its output.
+The `-maxdepth` command allows us to control how many subdirectories are displayed when executing `-find`. This is useful when the user does not want the terminal to be flooded with directories that are not needed to be displayed.  Below are images of the command being used and its output.
 
 command:
 
@@ -89,7 +89,7 @@ output:
 ![image](https://user-images.githubusercontent.com/114322700/198939252-2e32207b-2479-4596-98a6-21353c3914aa.png)
 
 ## `grep`:
-The grep command find patterns in any line of a file. Below are images of `grep` being used as the command and its output.
+The grep command find patterns in any line of a file. This is particularly useful in finding keywords in files. Below are images of `grep` being used as the command and its output.
 
 command:
 
@@ -101,7 +101,7 @@ output:
 
 Now below are 3 alternate ways to use the `grep` command:
 # `-c`:
-The `-c` command allows us to find out how often a word comes up in a file. Below are images of `grep -c` being used as the command and its output.
+The `-c` command allows us to find out how often a word comes up in a file. The user might want to use this when they want to keep track of the total number of times a word is used in a file. Below are images of `grep -c` being used as the command and its output.
 
 command:
 
@@ -112,7 +112,7 @@ output:
 ![image](https://user-images.githubusercontent.com/114322700/198940789-fee2939f-934e-4f84-be50-7fdd73c2c756.png)
 
 # `-i`:
-The `-i` command allows us to search for a word in a file without it being case sensitive. Below are images of `grep -i` being used as the command and its output.
+The `-i` command allows us to search for a word in a file without it being case sensitive. This is useful when the user wants to find a word in a file that has multiple upper case and lower case variations being used. Below are images of `grep -i` being used as the command and its output.
 
 command:
 
@@ -123,7 +123,7 @@ output:
 ![image](https://user-images.githubusercontent.com/114322700/198941911-f09b3ce6-c8a2-4a0d-b154-d9f29c1aa1b9.png)
 
 # `-n`
-The `-n` command when used with `grep` shows the line number with the output after excecuting `grep`. Below are images of `grep -n` being used as the command and its output.
+The `-n` command when used with `grep` shows the line number with the output after excecuting `grep`. This command it useful in keeping track how many lines are being displayed while executing the `grep` command. Below are images of `grep -n` being used as the command and its output.
 
 command:
 
