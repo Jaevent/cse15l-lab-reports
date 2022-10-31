@@ -82,11 +82,11 @@ The `-maxdepth` command allows us to control how many subdirectories are display
 
 command:
 
-![image](https://user-images.githubusercontent.com/114322700/198939205-e507530e-241c-4b4f-8fff-388eac30453a.png)
+![image](https://user-images.githubusercontent.com/114322700/198946193-393f681b-e127-4867-9171-961f28b3c34d.png)
 
 output:
 
-![image](https://user-images.githubusercontent.com/114322700/198939252-2e32207b-2479-4596-98a6-21353c3914aa.png)
+![image](https://user-images.githubusercontent.com/114322700/198946267-04dbe0f3-c7c1-4071-942d-dedffedd833b.png)
 
 ## `grep`:
 The grep command find patterns in any line of a file. This is particularly useful in finding keywords in files. Below are images of `grep` being used as the command and its output.
