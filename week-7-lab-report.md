@@ -9,3 +9,5 @@ Keystrokes in order (`week6-skill-demo` as the starting point:
 *  `n.`
 *  `n.`
 *  `:wq` `Enter`
+---
+1. `vim D` `Tab` `Enter`:
