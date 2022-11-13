@@ -11,6 +11,7 @@ Keystrokes in order (`week6-skill-demo` as the starting point:
 *  `:wq` `Enter`
 ---
 1. `vim D` `Tab` `Enter`:
+
 `DocSearchServer.java` file in vim:
 
 ![image](https://user-images.githubusercontent.com/114322700/201546116-50e7c855-0733-49ee-94d4-f7384b529f47.png)
