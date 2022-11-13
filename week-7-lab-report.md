@@ -59,7 +59,7 @@ Time editing in vim: 24 seconds
 
 Overall I would say that finding instances of `start` was easier to do in vim than in VSCode. Using vim was not too complicated other than the part where we are supposed to open the file.
 
-* I prefer using VSCode because I am still not familiar with vim and the different keystrokes and in-built commands it has, in addition to how different keys execute different thing that I am usually familiar with. However, if I was more skilled in vim, I would probably use vim instead of VSCode. But overall in terms of efficiency, vim would be better.
+* I prefer using VSCode because I am still not familiar with vim and the different keystrokes and in-built commands it has, in addition to how different keys execute different things that I am usually familiar with. However, if I was more skilled in vim, I would probably use vim instead of VSCode. But overall in terms of efficiency, vim would be better.
 
 * With my current understanding of my skills using vim and VSCode, if I were working on a larger project, I would prefer to use VSCode over vim. This is due to the fact that I am unfamiliar with vim and if I were to use vim, I can see myself doing a lot of mistakes. I feel more in control as of now when I use VSCode instead of vim, and I would probably make less mistakes with vim. And with a large project, I think that small mistakes can be detrimental and I would avoid editing with something I am not used to using. However, if the project is due soon and I am in a time crunch I would probably try my best to use vim.
 
