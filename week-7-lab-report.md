@@ -9,7 +9,7 @@ Keystrokes in order (`week6-skill-demo` as the starting point:
 *  `n.`
 *  `n.`
 *  `:wq` `<Enter>`
----
+
 1. `vim D` `<Tab>` `<Enter>`:
 
 `DocSearchServer.java` file in vim:
@@ -51,3 +51,4 @@ saving and exiting the file and returning to the terminal:
 ![image](https://user-images.githubusercontent.com/114322700/201546199-ca265f95-7c1b-4341-bfc3-5395dd7529c3.png)
 
 ---
+## Part 2
