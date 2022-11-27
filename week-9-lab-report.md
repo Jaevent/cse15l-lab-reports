@@ -50,5 +50,5 @@
         echo "Grade: 50%, file compiled successfully but failed the test."
         exit 1
     fi
-    ```
+   ```
     examples of the grader being used on week 3 test files.
