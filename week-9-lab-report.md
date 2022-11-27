@@ -51,4 +51,9 @@
         exit 1
     fi
    ```
-    examples of the grader being used on week 3 test files.
+   # Screenshots of three different student submissions and the reported grade using list methods files from lab 3:
+   (Run 1) expected test failure using https://github.com/ucsd-cse15l-f22/list-methods-lab3 :
+   ![run1](https://user-images.githubusercontent.com/114322700/204165593-23ddd3d5-38f1-4547-8520-b08b62f8a79b.png)
+
+   
+   
