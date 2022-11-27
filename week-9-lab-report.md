@@ -53,7 +53,17 @@
    ```
    # Screenshots of three different student submissions and the reported grade using list methods files from lab 3:
    (Run 1) expected test failure using https://github.com/ucsd-cse15l-f22/list-methods-lab3 :
+   
    ![run1](https://user-images.githubusercontent.com/114322700/204165593-23ddd3d5-38f1-4547-8520-b08b62f8a79b.png)
+   
+   (Run 2) expected test success using https://github.com/ucsd-cse15l-f22/list-methods-corrected :
+   
+   ![run2](https://user-images.githubusercontent.com/114322700/204165701-bfa84f0b-6480-4975-b733-93e63d392f9c.png)
+   
+   (Run 3) expected file compilation error using https://github.com/ucsd-cse15l-f22/list-methods-compile-error :
+   
+   ![run3](https://user-images.githubusercontent.com/114322700/204165773-b8405b1e-b7d9-4f5d-9274-1a4dd95674ae.png)
+
 
    
    
