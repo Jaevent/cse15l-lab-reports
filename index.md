@@ -12,3 +12,5 @@
 [Lab Report 5](https://jaevent.github.io/cse15l-lab-reports/week-7-lab-report)
 
 [Markdown text](https://jaevent.github.io/cse15l-lab-reports/markdown)
+
+[Lab Report 6](https://jaevent.github.io/cse15l-lab-reports/week-9-lab-report)
